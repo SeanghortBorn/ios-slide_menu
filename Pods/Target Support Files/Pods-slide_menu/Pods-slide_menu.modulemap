@@ -1,0 +1,6 @@
+framework module Pods_slide_menu {
+  umbrella header "Pods-slide_menu-umbrella.h"
+
+  export *
+  module * { export * }
+}
